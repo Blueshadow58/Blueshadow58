@@ -1,9 +1,8 @@
 
 ### Hi, im Franco 👋
 
-I am a junior programmer looking to work as a full stack developer,🌱 and step by step im
-working to make it possible 📫, i learn React Js ,Bootstrap , and currently i am learning
-Nodejs.
+I am a Software Developer looking to work as a full stack developer,🌱 and step by step im
+working to make it possible 📫, i learn React Js ,Python and currently i am working with these tecnologys
 
 I have a group of proyects that i made working with technologies like 
 
